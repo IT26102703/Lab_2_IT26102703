@@ -1,8 +1,8 @@
 #include <stdio.h>
  int main(void)
 {  
-	printf("First Line");
-	printf("This is the second line");
+	printf("First Line\n");
+	printf("This is the second line\n");
 	return 0;
 
 
